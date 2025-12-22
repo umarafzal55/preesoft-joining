@@ -3,4 +3,4 @@
 
 console.log("Hi, Preesoft!")
 
-console.log("Create new branch")
+console.dir("Create new branch")
